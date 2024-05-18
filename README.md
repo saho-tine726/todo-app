@@ -11,7 +11,7 @@ todoアプリです。
 
 ## 解説・工夫した点など
 * デザインも自作
-* 自分の投稿しか削除できないように設定
 * CSSはSCSS(Sass)で記述
 
 ## デモサイト
+https://todo-app-green-chi-72.vercel.app/
